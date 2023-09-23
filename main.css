@@ -1,0 +1,98 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+header {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.logo {
+    max-width: 150px;
+    margin-top: 20px;
+}
+section{
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+footer{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#footer{
+    background-color: #fff;
+    padding: 20px;
+    
+    margin-top: 5px;
+}
+
+.images {
+    max-width: 50%;
+    margin-bottom: 20px;
+    border:solid #8a0a59;
+    display: block;
+    width: 60%;
+    margin: auto;
+}
+.personaje{
+    border-radius: 20rem;
+    max-width: 20%;
+    display:inline-block;
+}
+
+
+#tituloPrincipal{
+    text-align: center; 
+    font-family: 'Helvetica Neue', sans-serif black;
+    font-weight: bold; 
+    font-size: 4vw; 
+    color: #8a0a59; 
+    background-color: #E75480; 
+    padding: 10px; 
+    border-radius: 5px; 
+    /*text-shadow: 0 5px 2px #ffd6d6, 0 2px 0 #ccc, 0 3px 0 #bbb, 0 4px 0 #aaa, 0 5px 0 #acacac, 0 6px 1px rgba(0,0,0,0.1), 0 0 5px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.3), 0 3px 5px rgba(0,0,0,0.2), 0 5px 10px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.2), 0 20px 20px rgba(0,0,0,0.15);*/
+}
+
+
+.tituloSeccion{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 3vw;
+    color: white; 
+    background-color: #E75480; 
+    padding: 10px; 
+    border-radius: 5px; 
+}
+
+h3{
+    text-align: center;
+    font-size: 3vw;
+    color: white; 
+    background-color: #dd86a0; 
+    padding: 10px; 
+    border-radius: 5px;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+
+article {
+    background-color: white; 
+    border: 1px solid pink; 
+    margin: 20px 0; 
+    padding: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    font-family: 'Helvetica Neue', sans-serif; 
+    color: #333; 
+  }
